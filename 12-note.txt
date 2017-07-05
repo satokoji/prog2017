@@ -1,0 +1,36 @@
+(C:\Anaconda3) C:\Users\佐久間>python
+Python 3.6.0 |Anaconda 4.3.1 (64-bit)| (default, Dec 23 2016, 11:57:41) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 1+1
+2
+>>> import turtle
+>>> import turtle
+>>> t = turtle.Turtle()
+>>> t.position()
+(0.00,0.00)
+>>>
+>>> t.home()
+>>> t.clear()
+>>>
+>>> for x in range(4):
+...   t.forward(200)
+...   t.left(90)
+...
+...
+...
+...
+(C:\Anaconda3) C:\Users\佐久間>python
+Python 3.6.0 |Anaconda 4.3.1 (64-bit)| (default, Dec 23 2016, 11:57:41) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import turtle
+>>> turtle = turtle.Turtle()
+>>> turtle.position()
+(0.00,0.00)
+>>> exit()
+
+(C:\Anaconda3) C:\Users\佐久間>python
+Python 3.6.0 |Anaconda 4.3.1 (64-bit)| (default, Dec 23 2016, 11:57:41) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import turtle
+>>> turtle = turtle.Turtle()
+>>> t...
